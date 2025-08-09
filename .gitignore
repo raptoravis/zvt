@@ -109,10 +109,3 @@ node_modules/
 .DS_Store
 
 a.json
-
-# 
-/zvt/
-/fill_project.py
-/main.py
-/plugin.py
-/zvt_server.py
